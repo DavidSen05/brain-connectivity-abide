@@ -1,0 +1,16 @@
+# data files — too large and restricted
+data/
+results/
+figures/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+*.egg-info/
+.env
+
+# system
+.DS_Store
+Thumbs.db
